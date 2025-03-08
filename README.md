@@ -1,4 +1,5 @@
-## Hi there 👋
+Bon dia!
+Ací tinc treballs d'entorns de desenvolupament del Simarro.
 
 <!--
 **raulvallsaranda/raulvallsaranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
