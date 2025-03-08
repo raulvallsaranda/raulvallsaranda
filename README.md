@@ -1,7 +1,7 @@
 <h1 style="margin:10px auto;text-align:center;width:50%;border:solid 5px red;border-radius:20px;color:red;background-color:yellow;font-family:arial;font-weight:bold;">Bon dia!</h1>
 <p style="text-align: center;font-size:1.2em">
-Ací tinc treballs d'entorns de desenvolupament del Simarro.
-<img src="logoSimarro.png" style="width:50%; margin:10px auto; display:block;">
+Treballs d'entorns de desenvolupament del Simarro.
+<img src="logoSimarro.png" style="width:400px; margin:10px auto; display:block;">
 </p>
 <!--
 **raulvallsaranda/raulvallsaranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
