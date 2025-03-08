@@ -1,8 +1,7 @@
-<h1 style="display:block;text-align:center;color:red;background-color:yellow;font-family:arial;font-weight:bold;">Bon dia!</h1>
-<p style="display:block;text-align: center;">
-Treballs d'entorns de desenvolupament del Simarro.<br>
-<img src="logoSimarro.png" style="display:block; text-align:center">
-</p>
+#Bon dia!
+---
+##Treballs d'**entorns de desenvolupament** del __Simarro__.
+![logo Simarro](./logoSimarro.png)
 <!--
 **raulvallsaranda/raulvallsaranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
