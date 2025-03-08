@@ -1,5 +1,6 @@
 # Bon dia!
-## Treballs d'**entorns de desenvolupament** del __Simarro__.
+---
+## Treballs d'**entorns de desenvolupament** del __Simarro__. :computer:
 ![logo Simarro](./logoSimarro.png)
 <!--
 **raulvallsaranda/raulvallsaranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
