@@ -1,6 +1,6 @@
-<h1 style="margin:10px auto;text-align:center;width:50%;border:solid 5px red;border-radius:20px;color:red;background-color:yellow;font-family:arial;font-weight:bold;">Bon dia!</h1>
-<p style="text-align: center;font-size:1.2em">
-Treballs d'entorns de desenvolupament del Simarro.
+<h1 style="display:block;margin:10px auto;text-align:center;width:50%;border:solid 5px red;border-radius:20px;color:red;background-color:yellow;font-family:arial;font-weight:bold;">Bon dia!</h1>
+<p style="display:block;text-align: center;font-size:1.2em">
+Treballs d'entorns de desenvolupament del Simarro.<br>
 <img src="logoSimarro.png" style="width:400px; margin:10px auto; display:block;">
 </p>
 <!--
