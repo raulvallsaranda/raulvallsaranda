@@ -1,5 +1,5 @@
 # Bon dia!
----
+-
 ## Treballs d'**entorns de desenvolupament** del __Simarro__.
 ![logo Simarro](./logoSimarro.png)
 <!--
