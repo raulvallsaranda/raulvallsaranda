@@ -3,10 +3,10 @@
 ## Treballs d'**entorns de desenvolupament** del __Simarro__. :computer:
 ![logo Simarro](./logoSimarro.png)
 ---
-<div style="margin:10px auto;text-align:center;">
-  ![HundredsOfBeavers](./hundredsOfBeavers.jpg)
-Enllaç [IMDB](https://www.imdb.com/title/tt12818328)
-</div>
+![HundredsOfBeavers](./hundredsOfBeavers.jpg)
+
+Enllaç [IMDB](https://www.imdb.com/title/tt12818328) 🎥
+
 
 <!--
 **raulvallsaranda/raulvallsaranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
